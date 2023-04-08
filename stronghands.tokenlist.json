@@ -4579,6 +4579,14 @@
         "symbol":"ZRX"
      },
      {
+         "address":"0x1CC1aCa0DaE2D6c4A0e8AE7B4f2D01eAbbC435EE",
+         "chainId":56,
+         "decimals":18,
+         "logoURI":"https://assets.coingecko.com/coins/images/20158/small/ISHND_512x512px.png",
+         "name":"StrongHands Finance",
+         "symbol":"ISHND"
+     },
+     {
         "address":"0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
         "chainId":56,
         "decimals":18,
