@@ -4,7 +4,7 @@
   "version":{
      "major":1,
      "minor":0,
-     "patch":6
+     "patch":7
   },
   "tags":{
      
@@ -111,7 +111,25 @@
          "decimals":18,
          "logoURI":"https://storage.top100token.com/images/1e9c853e-609a-4b51-b88f-d515ee3f2f62.webp",
          "name":"Incredibulls",
-         "symbol":"Bullys"
+         "symbol":"BULLYS"
+      },
+
+    {
+         "address":"0x4b0f1812e5df2a09796481ff14017e6005508003",
+         "chainId":56,
+         "decimals":18,
+         "logoURI":"https://assets.coingecko.com/coins/images/11085/standard/Trust.png?1696511026",
+         "name":"Trust Wallet",
+         "symbol":"TWT"
+      },
+
+    {
+         "address":"0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",
+         "chainId":56,
+         "decimals":18,
+         "logoURI":"https://assets.coingecko.com/coins/images/13905/standard/sfp.png?1696513647",
+         "name":"Safepal Token",
+         "symbol":"SFP"
       },
     
        {
