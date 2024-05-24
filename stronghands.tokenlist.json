@@ -1,10 +1,10 @@
 {
   "name":"Stronghands Menu",
-  "timestamp":"2023-05-15T00:00:00.000Z",
+  "timestamp":"2024-05-24T00:00:00.000Z",
   "version":{
      "major":1,
      "minor":0,
-     "patch":0
+     "patch":1
   },
   "tags":{
      
@@ -40,14 +40,6 @@
          "name":"BabyDoge",
          "symbol":"BABYDOGE"
      },
-     {
-      "address":"0xac68931b666e086e9de380cfdb0fb5704a35dc2d",
-         "chainId":56,
-         "decimals":9,
-         "logoURI":"https://assets.coingecko.com/coins/images/22565/small/IMG-20220111-212721-633.jpg?1642058717",
-         "name":"BNB Tiger Inu",
-         "symbol":"BNBTIGER"
-     },
      
      {
       "address":"0xfb5b838b6cfeedc2873ab27866079ac55363d37e",
@@ -65,15 +57,6 @@
          "logoURI":"https://assets.coingecko.com/coins/images/5585/small/free.png?1639547764",
          "name":"Freedom Coin",
          "symbol":"FREE"
-     },
-
-     {
-      "address":"0x237ace23ab2c36a004aa5e4fb134fe5c1cedf06c",
-         "chainId":56,
-         "decimals":18,
-         "logoURI":"https://assets.coingecko.com/coins/images/29210/small/IMG-20230225-WA0002.png?1677394544",
-         "name":"CEO",
-         "symbol":"CEO"
      },
      
      {
