@@ -4,7 +4,7 @@
   "version":{
      "major":1,
      "minor":0,
-     "patch":3
+     "patch":4
   },
   "tags":{
      
@@ -105,7 +105,16 @@
          "symbol":"NIX"
       },
     
-      {
+       {
+         "address":"0x2730eE1dF7c7948fe9397a57d99E9E38eB6D032C",
+         "chainId":56,
+         "decimals":18,
+         "logoURI":"https://github.com/stronghandsblockchain/stronghands-token-list/blob/master/assets/bullys.jpg",
+         "name":"Incredibulls",
+         "symbol":"Bullys"
+      },
+    
+       {
          "address":"0x55d398326f99059fF775485246999027B3197955",
          "chainId":56,
          "decimals":18,
