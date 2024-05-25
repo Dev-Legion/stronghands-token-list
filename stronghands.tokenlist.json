@@ -4,7 +4,7 @@
   "version":{
      "major":1,
      "minor":0,
-     "patch":7
+     "patch":8
   },
   "tags":{
      
@@ -60,21 +60,20 @@
      },
      
      {
-      "address":"0x7bd6FaBD64813c48545C9c0e312A0099d9be2540",
+      "address":"0x12BB890508c125661E03b09EC06E404bc9289040",
          "chainId":56,
          "decimals":18,
-         "logoURI":"https://assets.coingecko.com/coins/images/14962/small/6GxcPRo3_400x400.jpg?1619157413",
-         "name":"Dogelon Mars",
-         "symbol":"ELON"
+         "logoURI":"https://assets.coingecko.com/coins/images/17841/standard/ez44_BSs_400x400.jpg?1696517365",
+         "name":"Radio Caca V2",
+         "symbol":"RACA"
      },
-     
      
      {
       "address":"0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
       "chainId":56,
       "decimals":18,
       "logoURI":"https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/cake.jpg",
-      "name":"PancakeSwap Token",
+      "name":"PancakeSwap",
       "symbol":"CAKE"
      },
 
@@ -84,7 +83,7 @@
       "decimals":18,
       "logoURI":"https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x947950BcC74888a40Ffa2593C5798F11Fc9124C4.jpg",
       "name":"SushiSwap",
-      "symbol":"SUSHI.binance"
+      "symbol":"SUSHI"
       },
 
       {
@@ -92,7 +91,7 @@
          "chainId":56,
          "decimals":18,
          "logoURI":"https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.jpg",
-         "name":"BUSD Token",
+         "name":"Binance USD",
          "symbol":"BUSD"
       },
     
