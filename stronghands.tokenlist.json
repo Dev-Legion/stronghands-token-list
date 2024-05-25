@@ -4,7 +4,7 @@
   "version":{
      "major":1,
      "minor":0,
-     "patch":8
+     "patch":9
   },
   "tags":{
      
@@ -129,6 +129,15 @@
          "logoURI":"https://assets.coingecko.com/coins/images/13905/standard/sfp.png?1696513647",
          "name":"Safepal Token",
          "symbol":"SFP"
+      },
+   
+    {
+         "address":"0xc2a37e140546c25a607502c42cb2d44fc4d1609c",
+         "chainId":56,
+         "decimals":8,
+         "logoURI":"https://static.coinpaprika.com/coin/aky-allky/logo.png?rev=11008493",
+         "name":"Allky",
+         "symbol":"AKY
       },
     
        {
