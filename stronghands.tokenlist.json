@@ -3,8 +3,8 @@
   "timestamp":"2024-05-24T00:00:00.000Z",
   "version":{
      "major":1,
-     "minor":0,
-     "patch":9
+     "minor":1,
+     "patch":0
   },
   "tags":{
      
@@ -138,6 +138,15 @@
          "logoURI":"https://static.coinpaprika.com/coin/aky-allky/logo.png?rev=11008493",
          "name":"Allky",
          "symbol":"AKY"
+      },
+
+    {
+         "address":"0x0a6c10ab62408f8af68b7132a929aa816b0d85d1",
+         "chainId":56,
+         "decimals":18,
+         "logoURI":"https://bscscan.com/token/images/kushcoin_32.png?=v123",
+         "name":"Kush Coin",
+         "symbol":"KUSH"
       },
     
        {
